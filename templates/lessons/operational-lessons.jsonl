@@ -1,0 +1,2 @@
+{"_schema":"operational-lesson","version":"1.0","fields":["date","category","lesson","severity","trigger","fix"],"required":["category","lesson"]}
+{"date":"2026-01-01","category":"example","lesson":"Always backup before major changes","severity":"high","trigger":"Lost data after upgrade","fix":"Add backup step to checklist"}
