@@ -1,5 +1,7 @@
 # AI Agent Memory Management System
 
+[中文文档](README_CN.md)
+
 A file-based memory system for AI Agents with automatic TTL, LLM compression, and multi-agent sharing.
 
 ## Why File System?

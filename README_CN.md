@@ -1,5 +1,7 @@
 # AI Agent 记忆管理系统
 
+[English](README.md)
+
 基于文件系统的 AI Agent 记忆方案，支持自动 TTL 过期、LLM 压缩、多 Agent 共享。
 
 ## 为什么选文件系统？
